@@ -21,6 +21,13 @@ Me hablaron del BootCamp de [Adalab](https://adalab.es/) y recientemente acabo d
 * ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 * ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modehans&show_icons=true&locale=en&layout=compact" alt="modehans" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=modehans&show_icons=true&locale=en" alt="modehans" /></p>
+
 # Me puedes encontrar en 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monicaglezsanch/)](https://www.linkedin.com/in/monicaglezsanch/)
+
