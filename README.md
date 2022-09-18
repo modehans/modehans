@@ -1,4 +1,4 @@
-# ✨ ¡¡Hola Mundo!! Una nueva desarrolla está aquí. ✨
+# ✨ ¡¡Hola Mundo!! Una nueva desarrolladora está aquí. ✨
 
 Sí, este título es horrible, pero no me pude aguantar, tantos ejercicios con esas dos palabras, se han quedado grabadas en mi mente para siempre... 😜
 
