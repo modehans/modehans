@@ -22,6 +22,7 @@ Me hablaron del BootCamp de [Adalab](https://adalab.es/) y recientemente acabo d
 * ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 * ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 * ![Express.js](https://img.shields.io/badge/-Express.js-F7DF1E?style=plastic&logo=Express&logoColor=black)
+* ![SQLite](https://img.shields.io/badge/-SQLite-0061a9?style=plastic&logo=SQLite&logoColor=black)
 * ![Postman](https://img.shields.io/badge/-Postman-orange?style=plastic&logo=Postman&logoColor=white)
 
 
