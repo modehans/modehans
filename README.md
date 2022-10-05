@@ -36,10 +36,11 @@ Me hablaron del BootCamp de [Adalab](https://adalab.es/) y recientemente acabo d
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=plastic&logo=Postman&logoColor=white)
 
 
+ Gu
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modehans&show_icons=true&locale=en&layout=compact" alt="modehans Github" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modehans&show_icons=true&locale=en&layout=compact" alt="modehans" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=modehans&show_icons=true&locale=en" alt="modehans" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=modehans&show_icons=true&locale=en" alt="modehans Github" /></p>
+<p><img align="center" src="https://www.codewars.com/users/modehans/badges/large" alt="modehans Codewrs" /></p>
 
 # Me puedes encontrar en 
 
