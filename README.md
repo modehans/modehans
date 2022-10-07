@@ -14,32 +14,23 @@ Me hablaron del BootCamp de [Adalab](https://adalab.es/) y recientemente acabo d
 # Tecnologías
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=plastic&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
-
 ![Gulp](https://img.shields.io/badge/-Gulp-red?style=plastic&logo=gulp&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/-Express.js-F7DF1E?style=plastic&logo=Express&logoColor=black)
-
 ![SQLite](https://img.shields.io/badge/-SQLite-0061a9?style=plastic&logo=SQLite&logoColor=black)
-
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=plastic&logo=Postman&logoColor=white)
 
 
- Gu
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=modehans&show_icons=true&locale=en&layout=compact" alt="modehans Github" /></p>
+ # Estadísticas
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modehans&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=modehans&show_icons=true&locale=en" alt="modehans Github" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modehans&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://www.codewars.com/users/modehans/badges/large" alt="modehans Codewrs" /></p>
 
 # Me puedes encontrar en 
