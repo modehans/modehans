@@ -4,8 +4,7 @@ Sí, este título es horrible, pero no me pude aguantar, tantos ejercicios con e
 
 # Sobre mí
 
-Soy ingeniera agrícola con formación en automatización de procesos industriales, he pasado por diferentes puestos de trabajo, desde delineante a topógrafa, técnica de mantenimiento de líneas de alta tensión 👷 y asesora agrícola. Después de la maternidad 👶 me di cuenta que el sector agrícola y el industrial no encajaban en mi visión del mundo.
-
+Soy ingeniera agrícola con formación en automatización de procesos industriales, he pasado por diferentes puestos de trabajo, desde delineante a topógrafa, técnica de mantenimiento de líneas de alta tensión 👷 y asesora agrícola. Después de la maternidad 👶 me di cuenta que necesitaba un cambio en mi vida profesional
 Buscando como reinventarme me hablaron de la comunidad tecnológica, su filosofía, su comunidad, ... y vi que podría encajar perfectamente. Además, desde siempre me ha llamado más la tecnología que los animales 🐷 y las plantas 🌱.
 
 Me hablaron del BootCamp de [Adalab](https://adalab.es/) y recientemente acabo de terminar, por lo que en la actualidad me encuentro buscando mi primer empleo como **Baby Junior Front-End Developer** 👩‍💻
