@@ -4,7 +4,7 @@ Sí, este título es horrible, pero no me pude aguantar, tantos ejercicios con e
 
 # Sobre mí
 
-Soy ingeniera agrícola con Master en Automatización de Procesos Industriales, he pasado por diferentes puestos de trabajo, desde delineante a topógrafa, técnica de mantenimiento de líneas de alta tensión 👷 y asesora agrícola 🌱. He trabajado programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
+Soy ingeniera agrícola con Master en Automatización de Procesos Industriales, he pasado por diferentes puestos de trabajo, desde delineante a topógrafa, técnica de mantenimiento de líneas de alta tensión 👷 y asesora agrícola 🌱. También he trabajado programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
 
 Buscando como reinventarme profesionalmente me hablaron del BootCamp de [Adalab](https://adalab.es/) y decidí embarcarme en él, para reorientar mi carrera profesional en la programación web, que en realidad es lo que siempre me ha gustado. 
 
