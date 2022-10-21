@@ -26,12 +26,15 @@ Recientemente acabo de terminar, por lo que en la actualidad me encuentro buscan
 
 
  # Estadísticas
+ 
+<p><img align="center" src="https://www.codewars.com/users/modehans/badges/large" alt="modehans Codewrs" /></p>
+ 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modehans&theme=nightowl&border_radius=20&locale=es&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modehans&layout=compact&theme=nightowl&border_radius=20&locale=es&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://www.codewars.com/users/modehans/badges/large" alt="modehans Codewrs" /></p>
+
 
 # Me puedes encontrar en 
 
