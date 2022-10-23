@@ -8,7 +8,7 @@ Soy ingeniera agrícola con Master en Automatización de Procesos Industriales, 
 
 Buscando como reinventarme profesionalmente me hablaron del BootCamp de [Adalab](https://adalab.es/) y decidí embarcarme en él, para reorientar mi carrera profesional en la programación web, que en realidad es lo que siempre me ha gustado. 
 
-Recientemente acabo de terminar, por lo que en la actualidad me encuentro buscando mi primer empleo como ** Junior Front-End Developer** 👩‍💻
+Recientemente acabo de terminar, por lo que en la actualidad me encuentro buscando mi primer empleo como **Junior Front-End Developer** 👩‍💻
 
 
 # Tecnologías
