@@ -4,11 +4,16 @@ Sí, este título es horrible, pero no me pude aguantar, tantos ejercicios con e
 
 # Sobre mí
 
-Soy ingeniera agrícola con Master en Automatización de Procesos Industriales, he pasado por diferentes puestos de trabajo, desde delineante a topógrafa, técnica de mantenimiento de líneas de alta tensión 👷 y asesora agrícola 🌱. También he trabajado programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
+Actualmente estoy buscando ampliar mis conocimientos en React y Node.
 
-Buscando como reinventarme profesionalmente me hablaron del BootCamp de [Adalab](https://adalab.es/) y decidí embarcarme en él, para reorientar mi carrera profesional en la programación web, que en realidad es lo que siempre me ha gustado. 
+Después de estudiar el master de Automatización de procesos trabajé programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
 
-Recientemente acabo de terminar, por lo que en la actualidad me encuentro buscando mi primer empleo como **Junior Front-End Developer** 👩‍💻
+Mi trayectoria profesional se ha desarrollado en diferentes empresas a lo largo de los años, tanto empresas de topografía, eléctricas, alimentarias y agrícolas. He trabajado y gestionado equipos de trabajo, tanto en campo como en oficina, trabajado en remoto, en contacto con clientes finales e intermedios e incluso en mi última etapa profesional me he dedicado a la coordinación y docencia.
+
+Me hablaron del Bootcamp de Adalab y decidí embarcarme en él, para reorientar mi carrera profesional en la programación web, que en realidad es lo que siempre me ha gustado. 
+
+Por lo que ahora me encuentro buscando mi primer empleo como Junior Front-end Developer.
+
 
 
 # Tecnologías
@@ -23,17 +28,6 @@ Recientemente acabo de terminar, por lo que en la actualidad me encuentro buscan
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=plastic&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Gulp](https://img.shields.io/badge/-Gulp-red?style=plastic&logo=gulp&logoColor=white)
-
-
- # Estadísticas
- 
-<p><img align="center" src="https://www.codewars.com/users/modehans/badges/large" alt="modehans Codewrs" /></p>
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=modehans&theme=nightowl&border_radius=20&locale=es&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modehans&layout=compact&theme=nightowl&border_radius=20&locale=es&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 # Me puedes encontrar en 
