@@ -6,7 +6,7 @@ Sí, este título es horrible, pero no me pude aguantar, tantos ejercicios con e
 
 Actualmente estoy buscando ampliar mis conocimientos en React y Node.
 
-Después de estudiar el master de Automatización de procesos trabajé programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
+Soy Ingeniera Agríacola y después de estudiar el master de Automatización de procesos Industriales, trabajé programando PLC´s y SCADAS, donde descubrí lo mucho que me gusta esta parte de la tecnología.
 
 Mi trayectoria profesional se ha desarrollado en diferentes empresas a lo largo de los años, tanto empresas de topografía, eléctricas, alimentarias y agrícolas. He trabajado y gestionado equipos de trabajo, tanto en campo como en oficina, trabajado en remoto, en contacto con clientes finales e intermedios e incluso en mi última etapa profesional me he dedicado a la coordinación y docencia.
 
